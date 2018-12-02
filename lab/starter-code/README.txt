@@ -38,3 +38,15 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Features:
+
+Number and name of feature: Refactor CSS to SMACCS
+
+Estimate of time needed to complete: 45 mins
+
+Start time: 2:30 pm
+
+Finish time: 4:30 pm!
+
+Actual time needed to complete: 2 Hours! Much longer than I thought, but I went slow nad have a clear idea as to what is happening on the page. 
