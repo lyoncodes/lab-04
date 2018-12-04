@@ -141,6 +141,9 @@ h2 {
 
 	h2.alt {
 		color: #888;
+		letter-spacing: 8px;
+		background-color: #333333b0;
+
 	}
 
 		h2.alt strong {
