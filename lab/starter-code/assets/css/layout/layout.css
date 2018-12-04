@@ -1813,7 +1813,7 @@ button:active,
   #logo p {
     position: relative;
     display: block;
-    font-size: 0.6em;
+    font-size: 0.86em;
     color: rgba(255, 255, 255, 0.5);
     line-height: 1.25em;
     margin: 0.5em 0 0 0;
@@ -1831,11 +1831,12 @@ button:active,
 	}
 
 		#nav ul li {
-			padding-left: 0;
+      padding-left: 0;
+      font-size: 40px;
     }
     
 #footer {
-  margin-left: 375px;
+  /* margin-left: 375px; */
   text-align: center;
   background-color: #dce3e2;
   padding: 3em 0 4em 0;
@@ -2015,13 +2016,13 @@ button:active,
     -webkit-backface-visibility: hidden;
     -ms-backface-visibility: hidden;
     backface-visibility: hidden;
-    -moz-transform: translateX(-275px);
+    /* -moz-transform: translateX(-275px);
     -webkit-transform: translateX(-275px);
     -ms-transform: translateX(-275px);
     transform: translateX(-275px);
     -moz-transition: -moz-transform 0.5s ease;
     -webkit-transition: -webkit-transform 0.5s ease;
-    -ms-transition: -ms-transform 0.5s ease;
+    -ms-transition: -ms-transform 0.5s ease; */
     transition: transform 0.5s ease;
     -webkit-overflow-scrolling: touch;
     display: block;
@@ -2091,7 +2092,7 @@ button:active,
       font-weight: normal;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
-      content: '\f0c9';
+      /* content: '\f0c9'; */
       color: #fff;
       font-size: 18px;
       line-height: 2.25em;
