@@ -4,15 +4,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Pathway+Gothic+One');
 
-/* @media screen and (min-width: 961px) and (max-width: 1880px) {}
-@media screen and (min-width: 961px) and (max-width: 1620px) {}
-@media screen and (min-width: 961px) and (max-width: 1320px) {}
-@media screen and (max-width: 960px) {}
-@media screen and (max-width: 736px) {}
-@media screen and (min-width: 961px) and (max-width: 1880px) {}
-@media screen and (min-width: 961px) and (max-width: 1620px) {}
-@media screen and (min-width: 961px) and (max-width: 1320px) {}
-@media screen and (max-width: 960px) {} */
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -103,7 +94,7 @@ html {
  body {
 	 background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 21pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -150,6 +141,9 @@ h2 {
 
 	h2.alt {
 		color: #888;
+		letter-spacing: 8px;
+		background-color: #333333b0;
+
 	}
 
 		h2.alt strong {
